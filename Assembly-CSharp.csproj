@@ -66,6 +66,7 @@
      <Compile Include="Assets\Scripts\RPG\Movement\Mover.cs" />
      <Compile Include="Assets\Scripts\RPG\SceneManagement\Portal.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\FollowCamera.cs" />
+     <Compile Include="Assets\Scripts\RPG\Resources\Experience.cs" />
      <Compile Include="Assets\Scripts\RPG\Saving\SerializableVector3.cs" />
      <Compile Include="Assets\Scripts\RPG\Combat\Weapon.cs" />
      <Compile Include="Assets\Scripts\RPG\Saving\SaveableEntity.cs" />
@@ -80,7 +81,6 @@
      <Compile Include="Assets\Scripts\RPG\Control\PatrolPath.cs" />
      <Compile Include="Assets\Scripts\RPG\Combat\Fighter.cs" />
      <Compile Include="Assets\Scripts\RPG\Control\AIController.cs" />
-     <Compile Include="Assets\Scripts\RPG\Resources\Experience.cs" />
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
      <None Include="Assets\Asset Packs\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
      <None Include="Assets\Asset Packs\BOXOPHOBIC\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
