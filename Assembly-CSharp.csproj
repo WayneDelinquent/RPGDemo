@@ -51,6 +51,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\RPG\Progression\BaseStats.cs" />
+     <Compile Include="Assets\Scripts\RPG\Combat\EnemyHealthDisplay.cs" />
      <Compile Include="Assets\Scripts\RPG\Saving\ISaveable.cs" />
      <Compile Include="Assets\Scripts\RPG\Cinematics\CinematicTrigger.cs" />
      <Compile Include="Assets\Scripts\RPG\SceneManagement\SavingWrapper.cs" />
@@ -61,6 +62,7 @@
      <Compile Include="Assets\Scripts\RPG\Core\Interfaces\ISchedulableAction.cs" />
      <Compile Include="Assets\Scripts\RPG\Saving\SavingSystem.cs" />
      <Compile Include="Assets\Scripts\RPG\Combat\Projectile.cs" />
+     <Compile Include="Assets\Scripts\RPG\Resources\HealthDisplay.cs" />
      <Compile Include="Assets\Scripts\RPG\Movement\Mover.cs" />
      <Compile Include="Assets\Scripts\RPG\SceneManagement\Portal.cs" />
      <Compile Include="Assets\Scripts\RPG\Core\FollowCamera.cs" />
@@ -78,8 +80,7 @@
      <Compile Include="Assets\Scripts\RPG\Control\PatrolPath.cs" />
      <Compile Include="Assets\Scripts\RPG\Combat\Fighter.cs" />
      <Compile Include="Assets\Scripts\RPG\Control\AIController.cs" />
-     <Compile Include="Assets\Scripts\RPG\Resources\HealthDisplay.cs" />
-     <Compile Include="Assets\Scripts\RPG\Combat\EnemyHealthDisplay.cs" />
+     <Compile Include="Assets\Scripts\RPG\Resources\Experience.cs" />
      <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
      <None Include="Assets\Asset Packs\SimpleFX\Materials\UnlitVertexColour_Alpha.shader" />
      <None Include="Assets\Asset Packs\BOXOPHOBIC\Skybox Cubemap Extended\Core\Shaders\Skybox Cubemap Extended.shader" />
